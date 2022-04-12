@@ -13,9 +13,9 @@ Boolean = true false
 
 //es5
 
-var d = "hii"
+var c = "hii"
 var b = 10
-var c = truefalse
+var c = false
 
 var a = 10
 typeof(a)
